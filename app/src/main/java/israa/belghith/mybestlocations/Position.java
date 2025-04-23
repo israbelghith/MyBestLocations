@@ -1,3 +1,4 @@
+
 package israa.belghith.mybestlocations;
 
 public class Position {
